@@ -6,4 +6,4 @@ A simple and elegant love memorial website template.
 
 <https://www.huihut.com/LoveMemorial/index.html>
 
-![Screenshot](images\Screenshot.png)
+![Screenshot](images/Screenshot.png)
